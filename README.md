@@ -24,6 +24,8 @@ I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/
 
 - :zap: In my free time I... I don't have any free time:(
 
+- 📱 Currently growing as an iOS developer.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
