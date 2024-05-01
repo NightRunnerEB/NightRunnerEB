@@ -22,7 +22,7 @@ I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time I... I don't have any free time:(
+- :zap: In my free time I build an airplane in my garage...I'm not kidding :)
 
 - 📱 Currently growing as an iOS developer.
 
