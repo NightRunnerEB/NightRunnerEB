@@ -18,7 +18,7 @@
 
 I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am a second year Software Engineering student at the Higher School of Economics.
+- :telescope: I am a third year Software Engineering student at the Higher School of Economics.
 
 - :seedling: Exploring Technical Content Writing.
 
