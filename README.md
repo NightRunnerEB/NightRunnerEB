@@ -7,8 +7,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=NightRunnerEB&style=flat-square&color=blue" alt=""/>
   <h3>
-  Welcome to The Gulag, buddy!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRpNWl4bnhiYzIxM25wemJqNHFvYTNhNXV1bHZ1bXM4M3FrNXhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2ojLo7PvhVug/giphy.gif" width="28px"/>
+  Junior iOS developer, HSE CS student🎓
 </h3>
 </div>
 
