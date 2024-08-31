@@ -7,7 +7,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=NightRunnerEB&style=flat-square&color=blue" alt=""/>
   <h3>
-  Junior iOS developer, HSE CS student🎓
+  Junior Fullstack developer, HSE CS student🎓
 </h3>
 </div>
 
@@ -23,7 +23,7 @@ I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/
 
 - :zap: In my free time I build an airplane in my garage...I'm not kidding :)
 
-- 📱 Currently growing as an iOS developer.
+- 📱 Currently growing as an Fullstack developer.
 
 ---
 
