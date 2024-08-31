@@ -23,7 +23,7 @@ I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/
 
 - :zap: In my free time I build an airplane in my garage...I'm not kidding :)
 
-- 📱 Currently growing as an Fullstack developer.
+- 📱 Currently growing as a Fullstack developer.
 
 ---
 
