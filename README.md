@@ -15,15 +15,17 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Fullstack Developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I am a third year Software Engineering student at the Higher School of Economics.
 
 - :seedling: Exploring Technical Content Writing.
+  
+- 🪙 Interested in the development of blockchain technologies
 
 - :zap: In my free time I build an airplane in my garage...I'm not kidding :)
 
-- 📱 Currently growing as a Fullstack developer.
+- 🦀 Currently growing as a Rust developer.
 
 ---
 
