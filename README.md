@@ -7,7 +7,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=NightRunnerEB&style=flat-square&color=blue" alt=""/>
   <h3>
-  Junior Fullstack developer, HSE CS student🎓
+  Backend/Blockchain developer, HSE CS student🎓
 </h3>
 </div>
 
