@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer from Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Backend Developer from Kazakhstan/Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: In my final year of Software Engineering at the Higher School of Economics.
 
