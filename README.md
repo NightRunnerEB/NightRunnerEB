@@ -51,6 +51,6 @@ I am a Backend Developer from Kazakhstan/Russia <img src="https://media.giphy.co
 
 ### :fire: My Stats :
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NightRunnerEB&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ovi" />
+<img src="http://github-readme-stats.vercel.app/api/top-langs?username=NightRunnerEB&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ovi"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NightRunnerEB&theme=dark&background=000000)](https://git.io/streak-stats)
