@@ -7,7 +7,7 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=NightRunnerEB&style=flat-square&color=blue" alt=""/>
   <h3>
-  Backend/Blockchain developer, HSE CS student🎓
+  Backend developer, HSE CS student🎓
 </h3>
 </div>
 
@@ -25,13 +25,13 @@ I am a Backend Developer from Kazakhstan/Russia <img src="https://media.giphy.co
 
 - :zap: In my free time I am an aerospace engineer and entrepreneur.
 
-- 🦀 Currently growing as a Rust developer.
-
+- <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="20" height="25"/> Currently growing as a Go developer.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" title="Go"  alt="Go" width="65" height="75"/>&nbsp;
   <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" title="Rust"  alt="Rust" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
